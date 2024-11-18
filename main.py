@@ -2,6 +2,7 @@ import helper
 from flask import Flask, request, Response, render_template, redirect, url_for
 app = Flask(__name__)
 
+
 @app.route("/")
 def index():
     items = helper.get_all()
@@ -11,7 +12,8 @@ def index():
 @app.route('/add', methods=["POST"])
 def add():
     text = request.form.get("text")
-    helper.add(text)
+    date = request.form.get("deadline")
+    helper.add(text, date)
     return redirect(url_for("index"))
 
 
