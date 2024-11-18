@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97ab4442-c057-44af-9299-a83f62f665a4" name="Changes" comment="d" />
+    <list default="true" id="97ab4442-c057-44af-9299-a83f62f665a4" name="Changes" comment="d">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +55,7 @@
     "Python tests.pytest in test_helper.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "gitignore",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/kamil/OneDrive - Alte Kantonsschule Aarau/Schule/BBBaden/Informatik/Modul_324/zu-bbbearbeiten-stateless",
     "node.js.detected.package.eslint": "true",
@@ -99,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731915526754</updated>
       <workItem from="1731918166428" duration="837000" />
-      <workItem from="1731921982153" duration="322000" />
+      <workItem from="1731921982153" duration="1392000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <option name="closed" value="true" />
@@ -125,7 +128,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731922085836</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="d">
+      <option name="closed" value="true" />
+      <created>1731922329082</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731922329082</updated>
+    </task>
+    <task id="LOCAL-00005" summary="d">
+      <option name="closed" value="true" />
+      <created>1731922487378</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731922487378</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
